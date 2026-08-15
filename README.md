@@ -309,37 +309,6 @@ These recommendations align with the project's business-focused action items.
 
 ---
 
-# 📁 Project Structure
-
-```text
-customer-churn-analysis/
-│
-├── data/
-│   └── customer_churn.db
-│
-├── notebooks/
-│   └── customer_churn_analysis.ipynb
-│
-├── sql/
-│   └── churn_analysis_queries.sql
-│
-├── visuals/
-│   ├── churn_trend.png
-│   ├── churn_by_plan.png
-│   ├── churn_by_contract.png
-│   ├── churn_by_state.png
-│   └── churn_risk.png
-│
-├── reports/
-│   └── churn_analysis_report.pdf
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 # 🚀 How to Run the Project
 
 ## 1. Clone the Repository
